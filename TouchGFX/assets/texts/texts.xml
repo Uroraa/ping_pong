@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextDatabase xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="texts.xsd" Version="4.25.0">
+  <Languages>
+    <Language Id="GB" />
+  </Languages>
+  <Texts>
+    <TextGroup Id="Group1" />
+    <TextGroup Id="Unsorted">
+      <Text Id="__SingleUse_6BBQ" Alignment="Left" TypographyId="Typography_00">
+        <Translation Language="GB"></Translation>
+      </Text>
+      <Text Id="__SingleUse_SV1E" Alignment="Center" TypographyId="Typography_00">
+        <Translation Language="GB">P&lt;value&gt; win!</Translation>
+      </Text>
+      <Text Id="__SingleUse_Q720" Alignment="Center" TypographyId="Large">
+        <Translation Language="GB"> PING PONG &#10;BATTLE</Translation>
+      </Text>
+      <Text Id="__SingleUse_077T" Alignment="Center" TypographyId="Large">
+        <Translation Language="GB">Play Again</Translation>
+      </Text>
+      <Text Id="__SingleUse_WWJI" Alignment="Left" TypographyId="Typography_00">
+        <Translation Language="GB">0</Translation>
+      </Text>
+      <Text Id="__SingleUse_OJ6F" Alignment="Left" TypographyId="Typography_00">
+        <Translation Language="GB">&lt;value&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_D5MS" Alignment="Left" TypographyId="Typography_00">
+        <Translation Language="GB">0</Translation>
+      </Text>
+      <Text Id="__SingleUse_4WXM" Alignment="Left" TypographyId="Typography_00">
+        <Translation Language="GB">&lt;value&gt;</Translation>
+      </Text>
+    </TextGroup>
+  </Texts>
+  <Typographies>
+    <Typography Id="Default" Font="verdana.ttf" Size="20" Bpp="4" IsVector="no" Direction="LTR" FallbackCharacter="?" />
+    <Typography Id="Large" Font="ROCKBI.TTF" Size="35" Bpp="4" IsVector="no" Direction="LTR" FallbackCharacter="?" />
+    <Typography Id="Small" Font="verdana.ttf" Size="10" Bpp="4" IsVector="no" Direction="LTR" FallbackCharacter="?" />
+    <Typography Id="Typography_00" Font="verdanab.ttf" Size="20" Bpp="4" IsVector="no" Direction="RTL" FallbackCharacter="?" WildcardCharacterRanges="0-9" />
+    <Typography Id="Typography_01" Font="verdana.ttf" Size="40" Bpp="4" IsVector="no" Direction="LTR" FallbackCharacter="?" />
+  </Typographies>
+</TextDatabase>
